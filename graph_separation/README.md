@@ -1,6 +1,6 @@
 # Graphs - Expressive Power
-This section reproduce the results of the graph separation tasks (section 5.2).  
-Every .py file (graph8c/ exp_iso/ exp_classify) reproduce the results of the corresponding column from table 2 in the paper.  
+This section reproduces the results of the graph separation tasks (section 5.2).  
+Every .py file (graph8c/ exp_iso/ exp_classify) reproduces the results of the corresponding column from table 2 in the paper.  
 The hyperparameters used for reproducing the results are hardcoded and to repeat the experiment all is needed is to run the .py file.  
 
 ## Usage
