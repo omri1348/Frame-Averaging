@@ -1,2 +1,14 @@
 graph_separation/.vscode
 nbody/n_body_system/logs/
+*__pycache__*
+*.ipynb_checkpoints*
+*DS_S*
+*idea*
+normal_estimation
+normal_estimation/exps
+normal_estimation/data
+normal_estimation/code/.vscode/settings.json
+# normal_estimation/code/confs/local.conf
+normal_estimation/code/.vscode/
+normal_estimation/*.pt
+normal_estimation/code/runs_scripts
