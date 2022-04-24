@@ -6,7 +6,7 @@ The dataset files (.npy files) can be found in n_body_system/dataset.
 
 To reproduce the results from the paper run the following line:  
 ``` python
-python nbody.py --exp_name exp --nf 60--lr 1e-3  
+python nbody.py --exp_name exp --nf 60 --lr 1e-3  
 ``` 
 
 A log file that tracks the training/validation/test losses will be opened at n_body_system/logs/exp/losses.json.
