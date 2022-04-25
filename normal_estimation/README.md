@@ -18,7 +18,7 @@ or
 cd DGCNN
 ``` 
 
-Different models are defined by the configuration files found in the ``confs/`` folder. 
+Different models are defined by the configuration files found in the ``confs/`` folder.  
 ``abc_baseleine.conf`` - Baseline model (no frame averaging)  
 ``abc_FA.conf`` - Frame averaging + baseline and aligned train set / aligned test set.  
 ``abc_FA_i_so3.conf`` - Frame averaging + baseline and aligned train set / randomly rotated test set.  
